@@ -10,3 +10,4 @@ First created a webscraper using the BeautifulSoup library from Python to scrape
   
 # Files Included:
 * Jupyter Notebook file that contains the code
+* CSV File
