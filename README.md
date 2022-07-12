@@ -8,6 +8,6 @@ First created a webscraper using the BeautifulSoup library from Python to scrape
 * Python
   *Libraries: BeautifulSoup, pandas, numpy, matplotlib, seaborn, plotly.express, os, urlopen
   
-# Files Included:
+# Files Included (In Order):
 * Jupyter Notebook file that contains the code
 * CSV File
