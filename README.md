@@ -6,7 +6,7 @@ First created a webscraper using the BeautifulSoup library from Python to scrape
 ## Tools / Languages Used:
 * Jupyter Notebooks
 * Python
-  *Libraries: BeautifulSoup, pandas, numpy, matplotlib, seaborn, plotly.express, os, urlopen
+  * Libraries: BeautifulSoup, pandas, numpy, matplotlib, seaborn, plotly.express, os, urlopen
   
 # Files Included (In Order):
 * Jupyter Notebook file that contains the code
